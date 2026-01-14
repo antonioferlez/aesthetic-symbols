@@ -16,3 +16,4 @@ A web gallery of aesthetic symbols and emojis that allows users to search, copy 
 - LocalStorage
 
 ## Preview
+https://antonioferlez.github.io/aesthetic-symbols/
